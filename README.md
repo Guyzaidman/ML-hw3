@@ -14,4 +14,4 @@ Guy Zaidman & Gal Agasi
 * Hyper-parameter Tuning<br />
 * Cross-Entropy train\validation & Accuracy Graphs<br />
 
-[Link to code](https://github.com/Guyzaidman/ML-hw3/edit/main/README.md)
+[Link to code](https://github.com/Guyzaidman/ML-hw3)
